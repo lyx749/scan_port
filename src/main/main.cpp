@@ -23,6 +23,6 @@ choose:
         std::cerr << "input error" << std::endl;
         goto choose;
     }
-    // time(&end_time);
-    // std::cout << "need " << (double)end_time - start_time << "s" << std::endl;
+    time(&end_time);
+    std::cout << "need " << (double)end_time - start_time << "s" << std::endl;
 }
