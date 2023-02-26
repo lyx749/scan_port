@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/lyx/scan_port/build",
+  "command": "/usr/bin/g++   -I/home/lyx/scan_port/src/error -I/home/lyx/scan_port/src/ip -I/home/lyx/scan_port/src/tcp -I/home/lyx/scan_port/src/my_thread -I/home/lyx/scan_port/src/udp  -g   -std=gnu++17 -o CMakeFiles/scan_port_by_tcp.dir/src/main/main.cpp.o -c /home/lyx/scan_port/src/main/main.cpp",
+  "file": "/home/lyx/scan_port/src/main/main.cpp"
+}
+]

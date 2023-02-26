@@ -1,0 +1,3 @@
+/home/lyx/scan_port/build/CMakeFiles/rebuild_cache.dir
+/home/lyx/scan_port/build/CMakeFiles/edit_cache.dir
+/home/lyx/scan_port/build/CMakeFiles/scan_port_by_tcp.dir
